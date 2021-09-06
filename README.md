@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SachiSachu
-- 👀 I’m interested in sw engineer, SW-developer
+- 👀 I’m interested in IT
 - 🌱 I’m currently learning python for AI/ML
 - 💞️ I’m looking to collaborate on IT industries
 - 📫 How to reach me sachinnunavath123@gmail.com
